@@ -2,8 +2,8 @@ Questo modulo contiene la mia configurazione della tastiera per Windows 10.
 
 La tastiera fisca che utilizzo è una TKL UK ISO Layout (https://www.keychron.com/collections/keychron-iso-keyboard-collection/products/keychron-k8-wireless-mechanical-keyboard-uk-iso-layout?variant=32246756409433).
 
-Inizalmente l'ho impostata con la configurazione standard "UK Extended" disponibile su Linux, pensando che questo sarebbe stato sufficiente, ma poi ho pensato di poter fare di meglio e risolvere definitivamente "il problema".
+Inizalmente l'ho impostata con la configurazione standard "UK Extended" disponibile su Linux, pensando che questo sarebbe stato sufficiente, ma poi ho pensato di poter fare di meglio e risolvere definitivamente il /problema/.
 
-Il "problema", per quanto mi concerne, e' che la tastiera italiana e' totalmente inadeguata per chi deve lavorare su un PC (e non su una Olivetti), indipendentemente dal tipo di lavoro che svolge!, ed ha una scelta e disposizione di tasti assolutamente demenzial; purtroppo la tastiera US o UK non rappresentano, per me, una solzuione soddisfacente, almeno cosi' come sono.
+Il /problema/, per quanto mi concerne, e' che la tastiera italiana e' totalmente inadeguata per chi deve lavorare su un PC (e non su una Olivetti) - indipendentemente dal tipo di lavoro che svolge!, ed ha una scelta e disposizione di tasti assolutamente demenziale; purtroppo la tastiera US o quella UK non rappresentano, per me, una solzuione accettabile, almeno cosi' come sono.
 
-Dovendo cambiare assetto, dopo molti anni di insoddisfacente utilizzo della tastiera italiana, ed affrontare il lungo e esasperante processo di riconfigurazione della "memmoria della mano", ho deciso che dovevo almeno in cambio ottenere una soluzione soddisfacente, esportabile e definitiva.
+Dovendo cambiare assetto, dopo molti anni di frustrante utilizzo della tastiera italiana, ed affrontare il lungo e esasperante processo di riconfigurazione della "memmoria della mano", ho deciso che dovevo almeno in cambio ottenere una soluzione soddisfacente, esportabile e definitiva.
