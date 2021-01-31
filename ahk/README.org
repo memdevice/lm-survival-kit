@@ -27,12 +27,15 @@ Requisiti della mia tastiera ideale:
 - partire da una tastiera TKL UK ISO Layout (p.es. Keychron K8) (cfr. http://www.farah.cl/Keyboardery/A-Visual-Comparison-of-Different-National-Layouts/)
 - sostituire i tasti dell'UK layout con i corrispondeti tasti US, fino ad ottenere una disposizione simile alla tastiera US ISO; in dettaglio si deve sostituire o commutare sei tasti: tre in R1, nessuno in R2, due in R3, uno in R1 (partendo dall'UK ISO LAyout descritto qui, bisogna operare sui tasti evidenziati in blu): questo produrra' una configurazione di tasti non alfabetici "di tipo US", con il tasto "\ |" duplicato (accanto allo shift di sinistra e accanto al tasto Enter, in basso)
 - configurare nel sistema operativo la tastiera come "US International layout", per poter avere attivo il tasto AltGr come tasto separato;
-- scaricare il tool AHK in versione /portable/, scegliendo il file .zip che non richiede installazione (https://www.autohotkey.com/download/ahk.zip);
-- scaricare lo script AHK di questo repository;
-- associare l-estensione .ahk al lancio della versione UTF 64 del tool;
-- lanciare lo script ed eventualmente metterlo in esecuzione automatica (StartUp).
+- scaricare dal sito AHK (https://www.autohotkey.com) il tool in versione /portable/, scegliendo cioe' il file .zip che non richiede installazione (https://www.autohotkey.com/download/ahk.zip);
+- scaricare lo script adfASDAdADA.ahk da questo repository;
+- associare l'estensione .ahk al lancio della versione UTF 64 del tool (=XXXXXXXX.EXE=);
+- lanciare lo script .ahk (ed eventualmente metterlo in esecuzione automatica, all'avvio)
+- se tutto e' stato eseguito correttamente comparira' il logo verde "H" nella barra di stato.
 
 ** risultato
+
+
 
 
 
