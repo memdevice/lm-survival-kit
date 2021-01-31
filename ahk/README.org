@@ -21,6 +21,8 @@ Requisiti della mia tastiera ideale:
 - possibilita' di scrivere i caratteri /at/ e /hash/ (@, #) senza ricorrere all'AltGr (ma al piu' come SHIFT + tasto);
 - possibilita' di scrivere i caratteri /slash/ e /backslash/  (/,\) direttamente, senza ricorrere al tasto SHIFT;
 - possibilita' di scrivere il carattere punto e virgola direttamente, senza ricorrere al tasto SHIFT;
+- mappatura delle accentate italiane, minuscole e maiuscole, mediante Altgr sui tasti a-e-i-o-u-d-j. 
+
 
 ** soluzione individuata
 
