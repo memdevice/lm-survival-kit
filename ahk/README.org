@@ -7,7 +7,7 @@ Requisiti della mia tastiera ideale:
 
 - tasti freccia a T rovesciata, posizionati esternamente al blocco principale dei tasti (e non "immersi" nella tastiera)
 - tasti INS, HOME, PGUP, DEL, END, PGDOWN posizionati sopra i tasti freccia (/idem/);
-- tasto Enter largo due file (di tipo ISO);
+- tasto Enter grande, alto due file (/i.e./ di tipo ISO);
 - presenza di due tasti SHIFT, CONTROL, WIN e ALT (destro e sinistro);
 - presenza del tasto AltGr, ovvero differenzizione e specializzazione dei due tasti Alt (destro e sinistro);
 - dispsizione dei tasti non alfabetici "di tipo US";
