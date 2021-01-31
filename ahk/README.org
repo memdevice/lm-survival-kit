@@ -1,5 +1,25 @@
 Questo modulo contiene la mia configurazione della tastiera per Windows 10.
 
+
+** definizione dei requisiti desiderati
+
+Questi i requisiti della mia tastiera ideale:
+
+- tasti freccia a T rovesciata posizionati esternamente al blocco principale dei tasti (e non "immersi" nella tastiera)
+- tasto Enter largo due file (di tipo ISO);
+- presenza di due tasti SHIFT, CONTROL, WIN e ALT (destro e sinistro);
+- presenza del tasto AltGr, ovvero differenzizione e specializzazione dei due tasti Alt (destro e sinistro);
+- dispsizione dei tasti non alfabetici "di tipo US";
+- dimensione del tasto "\ |" uguale agli altri;
+- presenza di un tasto "` ~", 
+- presenza di una coppia di tasti "[ {",  "] }";
+- disposizione consecutiva "aperta - chiusa" di tutti i tasti delle parentesi, tonda, graffa, quadra e degli altri glifi simili (p.es. '<' e '>');
+- presenza nello stessso tasto dei caratteri apice (') e doppio apice (");
+- possibilita' di scrivere i caratteri /at/ e /hash/ senza ricorrere all'AltGr (ma al piu' come SHIFT + tasto
+
+
+** storia del problema e descrizione della soluzione
+
 La tastiera fisca che utilizzo è una TKL UK ISO Layout (https://www.keychron.com/collections/keychron-iso-keyboard-collection/products/keychron-k8-wireless-mechanical-keyboard-uk-iso-layout?variant=32246756409433).
 
 Inizalmente l'ho impostata con la configurazione standard "UK Extended" disponibile su Linux, pensando che questo sarebbe stato sufficiente, ma dopo mi sono reso conto di poter fare di meglio e risolvere definitivamente il /problema/ che il layout UK extendend risolveva male e solo in parte.
@@ -12,17 +32,6 @@ Del /problema/ ho detto piu diffusamente altrove (cfr. htttp://) e li' rimando p
 
 Ho quindi deciso di affrontare il problema una volta per tutte e "prendere il toro per gli apici". La soluzione che ho trovato e' stata quella di abbandonare il pur buon comporomesso rappresentato dal layout UK Extended, ritornare a quello USA (ma su una tastiera fisica ISO) e modificarlo per le mie esigenze.
 
-** definizione dei requisiti desiderati
-
-Questi i requisiti della mia tastiera ideale:
-
-- tasto Enter largo due file (di tipo ISO);
-- presenza del tasto AltGr, ovvero differenzizione dei due tasti Alt (destro e sinistro)
-- dispsizione dei tasti non alfabetici "di tipo US";
-- dimensione del tasto "\ |" uguale agli altri;
-- presenza di un tasto "` ~", 
-- presenza di una coppia di tasti "[ {",  "] }";
-- disposizione consecutiva "aperta - chiusa" di tutti i tasti delle parentesi, tonda, graffa, quadra e degli altri glifi simili (p.es. '<' e '>').
 
 
 
