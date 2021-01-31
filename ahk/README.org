@@ -6,4 +6,8 @@ Inizalmente l'ho impostata con la configurazione standard "UK Extended" disponib
 
 Il /problema/, per quanto mi concerne, e' che la tastiera italiana e' totalmente inadeguata per chi deve lavorare su un PC (e non su una Olivetti) - indipendentemente dal tipo di lavoro che svolge!, ed ha una scelta e disposizione di tasti assolutamente demenziale; purtroppo la tastiera US o quella UK non rappresentano, per me, una solzuione accettabile, almeno cosi' come sono.
 
-Dovendo cambiare assetto, dopo molti anni di frustrante utilizzo della tastiera italiana, ed affrontare il lungo e esasperante processo di riconfigurazione della "memmoria della mano", ho deciso che dovevo almeno in cambio ottenere una soluzione soddisfacente, esportabile e definitiva.
+Avendo infine scelto di cambiare assetto, dopo molti anni di frustrante utilizzo della tastiera italiana, ed affrontare il lungo e esasperante processo di riconfigurazione della "memmoria della mano", ho deciso che dovevo almeno, in cambio, ottenere una soluzione generale, soddisfacente, esportabile e definitiva.
+
+Del /problema/ ho detto piu diffusamente altrove (cfr. htttp://) e li' rimando per capire cosa mi ha portato a scegliere di tornare ad una tastiera "americana", ma con alcune modifiche indispensabili, con alcune migliorie e con la possibilita' di scrivere anche tutti i glifi dell'alfabeto italiano, maiuscole e minuscole, direttamente e senza troppe contorsioni.
+
+
