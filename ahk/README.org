@@ -6,6 +6,7 @@ Questo modulo contiene la mia configurazione della tastiera per Windows 10.
 Requisiti della mia tastiera ideale:
 
 - tasti freccia a T rovesciata posizionati esternamente al blocco principale dei tasti (e non "immersi" nella tastiera)
+- tasti INS, HOME, PGUP, DEL, END, PGDOWN posizionati idem;
 - tasto Enter largo due file (di tipo ISO);
 - presenza di due tasti SHIFT, CONTROL, WIN e ALT (destro e sinistro);
 - presenza del tasto AltGr, ovvero differenzizione e specializzazione dei due tasti Alt (destro e sinistro);
@@ -17,6 +18,7 @@ Requisiti della mia tastiera ideale:
 - presenza nello stessso tasto dei caratteri apice (') e doppio apice (");
 - scrivere i caratteri /at/ e /hash/ (@, #) senza ricorrere all'AltGr (ma al piu' come SHIFT + tasto);
 - scrivere i caratteri /slash/ e /backslash/  (/,\) direttamente, senza ricorrere al tasto SHIFT;
+- scrivere il carattere punto e virgola direttamente, senza ricorrere al tasto SHIFT;
 
 
 ** storia del problema e descrizione della soluzione
