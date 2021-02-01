@@ -1,1 +1,60 @@
+** definizione dei requisiti desiderati
+
+Requisiti della mia tastiera ideale:
+
+- tasti freccia a T rovesciata, posizionati esternamente al blocco principale dei tasti (e non "immersi" nella tastiera)
+- tasti INS, HOME, PGUP, DEL, END, PGDOWN posizionati sopra i tasti freccia (/idem/);
+- tasto Enter grande, alto due file (/i.e./ di tipo ISO);
+- presenza di due tasti SHIFT, CONTROL, WIN e ALT (destro e sinistro);
+- presenza del tasto AltGr, ovvero differenzizione e specializzazione dei due tasti Alt (destro e sinistro);
+- presenza di tasti funzione separati, "fisici";
+- dimensione del tasto "\ |" uguale agli altri;
+- dispsizione dei tasti non alfabetici "di tipo US";
+
+- presenza di un tasto "` ~", 
+- presenza di una coppia di tasti "[ {",  "] }";
+- disposizione consecutiva, "aperta - chiusa", di tutti i tasti delle parentesi, tonda, graffa, quadra e degli altri tasti con logica simile simili (p.es. '<' e '>');
+- presenza /nello stessso tasto/ dei caratteri apice (') e doppio apice (");
+- possibilita' di scrivere i caratteri /at/ e /hash/ (@, #) senza ricorrere all'AltGr (ma al piu' come SHIFT + tasto);
+- possibilita' di scrivere i caratteri /slash/ e /backslash/  (/,\) direttamente, senza ricorrere al tasto SHIFT;
+- possibilita' di scrivere il carattere punto e virgola direttamente, senza ricorrere al tasto SHIFT;
+- mappatura delle accentate italiane, minuscole e maiuscole, mediante Altgr sui tasti a-e-i-o-u-d-j. 
+
+
+** soluzione individuata
+
+- partire da una tastiera TKL UK ISO Layout (p.es. Keychron K8) (cfr. http://www.farah.cl/Keyboardery/A-Visual-Comparison-of-Different-National-Layouts/)
+- sostituire i tasti dell'UK layout con i corrispondeti tasti US, fino ad ottenere una disposizione simile alla tastiera US ISO; in dettaglio si deve sostituire o commutare sei tasti: tre in R1, nessuno in R2, due in R3, uno in R1 (partendo dall'UK ISO LAyout descritto qui, bisogna operare sui tasti evidenziati in blu): questo produrra' una configurazione di tasti non alfabetici "di tipo US", con il tasto "\ |" duplicato (accanto allo shift di sinistra e accanto al tasto Enter, in basso)
+- configurare nel sistema operativo la tastiera come "US International layout", per poter avere attivo il tasto AltGr come tasto separato;
+- scaricare dal sito AHK (https://www.autohotkey.com) il tool in versione /portable/, scegliendo cioe' il file .zip che non richiede installazione (https://www.autohotkey.com/download/ahk.zip);
+- scaricare lo script adfASDAdADA.ahk da questo repository;
+- associare l'estensione .ahk al lancio della versione UTF 64 del tool (=XXXXXXXX.EXE=);
+- lanciare lo script .ahk (ed eventualmente metterlo in esecuzione automatica, all'avvio)
+- se tutto e' stato eseguito correttamente comparira' il logo verde "H" nella barra di stato.
+
+** risultato
+
+
+
+
+
+** storia del problema e descrizione della soluzione
+
+La tastiera fisca che utilizzo è una TKL UK ISO Layout (https://www.keychron.com/collections/keychron-iso-keyboard-collection/products/keychron-k8-wireless-mechanical-keyboard-uk-iso-layout?variant=32246756409433).
+
+Inizalmente l'ho impostata con la configurazione standard "UK Extended" disponibile su Linux, pensando che questo sarebbe stato sufficiente, ma dopo mi sono reso conto di poter fare di meglio e risolvere definitivamente il /problema/ che il layout UK extendend risolveva male e solo in parte.
+
+Il /problema/, per quanto mi concerne, e' che la tastiera italiana e' totalmente inadeguata per chi deve lavorare su un PC (e non su una Olivetti) - indipendentemente dal tipo di lavoro che svolge!, ed ha una scelta e disposizione di tasti assolutamente demenziale; purtroppo la tastiera US o quella UK non rappresentano, per me, una solzuione accettabile, almeno cosi' come sono.
+
+Avendo infine scelto di cambiare assetto, dopo molti anni di frustrante utilizzo della tastiera italiana, ed affrontare il lungo e esasperante processo di riconfigurazione della "memmoria della mano", ho deciso che dovevo almeno, in cambio, ottenere una soluzione generale, soddisfacente, esportabile e definitiva.
+
+Del /problema/ ho detto piu diffusamente altrove (cfr. htttp://) e li' rimando per capire cosa mi ha portato a scegliere di tornare ad una tastiera "americana", ma con alcune modifiche indispensabili, con alcune migliorie e con la possibilita' di scrivere anche tutti i glifi dell'alfabeto italiano, maiuscole e minuscole, direttamente e senza troppe contorsioni.
+
+Ho quindi deciso di affrontare il problema una volta per tutte e "prendere il toro per gli apici". La soluzione che ho trovato e' stata quella di abbandonare il pur buon comporomesso rappresentato dal layout UK Extended, ritornare a quello USA (ma su una tastiera fisica ISO) e modificarlo per le mie esigenze.
+
+
+
+
+
+
 
