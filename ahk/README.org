@@ -9,7 +9,7 @@ Tutto cio' e' necessario in Windows, non essendovi un layout simile a disposizio
 
 ** procedura di configurazione
 
-Procurarsi una tastiera TKL UK ISO Layout con i tasti (/keycap/) agguntivi US (p.es. Keychron K8 ISO UK https://cdn.shopify.com/s/files/1/0059/0630/1017/t/5/assets/pf-39685a56--KeychronK8WirelessMechanicalKeyboardUKISOQWERTYtenkeylessGateronblueswitchRGBbacklitaluminumframeHotswappableMac-Edited.jpg?v=1603759859).
+Procurarsi una tastiera TKL UK ISO Layout con i tasti (/keycap/) agguntivi US (p.es. Keychron K8 ISO UK https://www.keychron.com/products/keychron-k8-wireless-mechanical-keyboard-uk-iso-layout
 
 Sostituire i tasti dell'UK layout con i corrispondeti tasti US, fino ad ottenere una disposizione simile alla tastiera US ISO. Si deve sostituire o commutare sei tasti: tre in R1, nessuno in R2, due in R3, uno in R1. 
 
