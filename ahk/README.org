@@ -11,6 +11,9 @@ Tutto cio' e' necessario in Windows, non essendovi un layout simile a disposizio
 
 Procurarsi una tastiera TKL UK ISO Layout con i tasti (/keycap/) agguntivi US (p.es. Keychron K8 ISO UK).
 
+
+[[file:K8.webp]]
+
 [[file:TKL-KeychronK8WirelessMechanicalKeyboard-UKISOQWERTYtenkeyless.jpg]]
 
 Sostituire i tasti dell'UK layout con i corrispondeti tasti US, fino ad ottenere una disposizione simile alla tastiera US ISO. Si deve sostituire o commutare sei tasti: tre in R1, nessuno in R2, due in R3, uno in R1. 
