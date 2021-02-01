@@ -15,7 +15,7 @@ Procurarsi una tastiera TKL UK ISO Layout con i tasti (/keycap/) agguntivi US (p
 
 Sostituire i tasti dell'UK layout con i corrispondeti tasti US, fino ad ottenere una disposizione simile alla tastiera US ISO. Si deve sostituire o commutare sei tasti: tre in R1, nessuno in R2, due in R3, uno in R1. 
 
-Partendo quindi dall'UK ISO Layout mostrato [[http://www.farah.cl/Keyboardery/A-Visual-Comparison-of-Different-National-Layouts/enUK.png][qui a destra in basso]], bisogna operare sui tasti evidenziati in blu, fino a raggiungere la disposizione di una tastiera US ISO, mostrata [[http://www.farah.cl/Keyboardery/A-Visual-Comparison-of-Different-National-Layouts/enUSin.png][qui in basso a destra]. 
+Partendo quindi dall'UK ISO Layout mostrato [[http://www.farah.cl/Keyboardery/A-Visual-Comparison-of-Different-National-Layouts/enUK.png][qui a destra in basso]], bisogna operare sui tasti evidenziati in blu, fino a raggiungere la disposizione di una tastiera US ISO, mostrata [[http://www.farah.cl/Keyboardery/A-Visual-Comparison-of-Different-National-Layouts/enUSin.png][qui in basso a destra]]. 
 
 Questo otterra' una configurazione di tasti non alfabetici "di tipo US", con il tasto Enter largo, con la presenza del tasto AltGr e con il tasto =\ |= duplicato in due diverse posizioni (accanto allo shift di sinistra e accanto al tasto Enter, riga in basso).
 
