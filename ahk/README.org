@@ -9,7 +9,8 @@ Tutto cio' e' necessario in Windows, non essendovi un layout simile a disposizio
 Procurarsi una tastiera TKL UK ISO Layout con i tasti (/keycap/) agguntivi US (p.es. Keychron K8).
 
 Sostituire i tasti dell'UK layout con i corrispondeti tasti US, fino ad ottenere una disposizione simile alla tastiera US ISO. Piu' precisamente si deve sostituire o commutare sei tasti: tre in R1, nessuno in R2, due in R3, uno in R1. 
-Partendo dall'UK ISO Layout descritto qui (), bisogna operare sui tasti evidenziati in blu, fino a raggiungere la disposizione di una tastiera US ISO). Questo produrra' una configurazione di tasti non alfabetici "di tipo US", con il tasto =\ |= duplicato (accanto allo shift di sinistra e accanto al tasto Enter, in basso).
+Partendo quindi dall'UK ISO Layout mostrato qui a destra in basso (http://www.farah.cl/Keyboardery/A-Visual-Comparison-of-Different-National-Layouts/enUK.png), bisogna operare sui tasti evidenziati in blu, fino a raggiungere la disposizione di una tastiera US ISO, mostrata qui in basso a destra (http://www.farah.cl/Keyboardery/A-Visual-Comparison-of-Different-National-Layouts/enUSin.png). 
+Questo otterra' una configurazione di tasti non alfabetici "di tipo US", con il tasto Enter largo, con la presenza del tasto AltGr e con il tasto =\ |= duplicato in due diverse posizioni (accanto allo shift di sinistra e accanto al tasto Enter, riga in basso).
 
 Configurare nel sistema operativo la tastiera come "US International layout", per poter avere attivo il tasto AltGr come tasto separato;
 
