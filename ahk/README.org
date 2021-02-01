@@ -1,7 +1,7 @@
 /a Timo,
 che non sapeva di scatenare tutto questo/
 
-*Questo modulo contiene la mia configurazione della tastiera =US Intranational layout= e lo script aggiuntivo necessario per configurarla su Windows 10.*
+*Questo modulo contiene la mia configurazione della tastiera US Intranational layout e lo script aggiuntivo necessario per configurarla su Windows 10.*
 
 La tastiera e' una tastiera fisica TKL UK ISO, ma con i tasti di quella US, impostata su Windows 10 come =US international layout=.  Quest'ultimo viene poi modificato, mediante uno script AHK, per aggiungervi tutte le lettere accentate italiane (maiuscole e minuscole) ed disabilitare i /dead keys/, ripristinando per i tasti dei segni diacritici il loro comportamento ordinario.
 
@@ -17,7 +17,7 @@ Partendo quindi dall'UK ISO Layout mostrato qui a destra in basso (http://www.fa
 
 Questo otterra' una configurazione di tasti non alfabetici "di tipo US", con il tasto Enter largo, con la presenza del tasto AltGr e con il tasto =\ |= duplicato in due diverse posizioni (accanto allo shift di sinistra e accanto al tasto Enter, riga in basso).
 
-Configurare nel sistema operativo la tastiera come "US International layout", per poter avere attivo il tasto AltGr come tasto separato;
+Configurare nel sistema operativo la tastiera come =US International layout=, per poter avere attivo il tasto AltGr come tasto separato;
 
 Scaricare dal sito AHK (https://www.autohotkey.com) il tool in versione /portable/, scegliendo cioe' il file .zip che non richiede installazione (https://www.autohotkey.com/download/ahk.zip), e decomprimerlo in una directory.
 
