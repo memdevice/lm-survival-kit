@@ -9,7 +9,7 @@ Tutto cio' e' necessario in Windows, non essendovi un layout simile a disposizio
 
 ** procedura di configurazione
 
-Procurarsi una tastiera TKL UK ISO Layout con i tasti (/keycap/) agguntivi US (p.es. Keychron K8 ISO UK https://www.keychron.com/collections/keychron-iso-keyboard-collection/products/keychron-k8-wireless-mechanical-keyboard-uk-iso-layout).
+Procurarsi una tastiera TKL UK ISO Layout con i tasti (/keycap/) agguntivi US (p.es. [[https://www.keychron.com/collections/keychron-iso-keyboard-collection/products/keychron-k8-wireless-mechanical-keyboard-uk-iso-layout][Keychron K8 ISO UK]]).
 
 [[file:K8.webp]]
 
