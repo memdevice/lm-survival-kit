@@ -3,7 +3,7 @@ che non sapeva di scatenare tutto questo/
 
 *Questo modulo contiene la configurazione della tastiera "US IT Intranational layout" e lo script aggiuntivo necessario per configurarla su Windows 10.*
 
-La tastiera e' una tastiera fisica TKL UK ISO, ma con i tasti di quella US, impostata su Windows 10 come =US international layout=.  Quest'ultimo viene poi modificato, mediante uno script AHK, per aggiungervi tutte le lettere accentate italiane (maiuscole e minuscole) ed disabilitare i /dead keys/, ripristinando per i tasti dei segni diacritici il loro comportamento ordinario.
+La tastiera e' una tastiera fisica TKL UK ISO, ma con la disposizione dei tasti US, impostata su Windows 10 come =US international layout=.  Quest'ultimo viene poi modificato, mediante uno script AHK, per aggiungervi tutte le lettere accentate italiane (maiuscole e minuscole) ed disabilitare i /dead keys/, ripristinando per i tasti dei segni diacritici il loro comportamento ordinario.
 
 Tutto cio' e' necessario perche' in Windows un layout simile non e' disponibile; su Linux viceversa e' possibile ottenere un comportamento quasi identico, semplicemente inpostando il layout come =IT, US layout= 
 
