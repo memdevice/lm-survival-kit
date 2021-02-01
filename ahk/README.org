@@ -5,9 +5,9 @@ che non sapeva di scatenare tutto questo/
 
 La tastiera e' una tastiera fisica TKL UK ISO, ma con i tasti di quella US, impostata su Windows 10 come =US international layout=.  Quest'ultimo viene poi modificato, mediante uno script AHK, per aggiungervi tutte le lettere accentate italiane (maiuscole e minuscole) ed disabilitare i /dead keys/, ripristinando per i tasti dei segni diacritici il loro comportamento ordinario.
 
-Tutto cio' e' necessario in Windows, non essendovi un layout simile a disposizione; su Linux viceversa e' possibile ottenere un comportamento quasi identico, semplicemente inpostando il layout come =Tastiera IT, con tasti US e accentate= 
+Tutto cio' e' necessario perche' in Windows un layout simile non e' disponibile; su Linux viceversa e' possibile ottenere un comportamento quasi identico, semplicemente inpostando il layout come =IT, US layout= 
 
-** procedura di configurazione
+** procedura di configurazione e installazione
 
 Procurarsi una tastiera TKL UK ISO Layout con i tasti (/keycap/) agguntivi US (p.es. [[https://www.keychron.com/collections/keychron-iso-keyboard-collection/products/keychron-k8-wireless-mechanical-keyboard-uk-iso-layout][Keychron K8 ISO UK]]).
 
