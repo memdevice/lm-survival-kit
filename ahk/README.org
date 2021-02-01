@@ -33,13 +33,13 @@ Se tutto e' stato eseguito correttamente comparira' il logo verde "H" nella barr
 
 La tastiera utilizza ora il classico layout US ISO per tutti i tasti, alfabetici e non.
 
-Per ottenere i caratteri /backslash/ e /pipe/ (=\= e =|=) si utilizza il tasto a destra dello shift di sinistra (preferisco questa scelta per simmetria col tasto =/ ?=).
+Per ottenere i caratteri /backslash/ e /pipe/ ('\' e '|') si utilizza il tasto a destra dello shift di sinistra (preferisco questa scelta per simmetria col tasto =/ ?=, all'estremita' opposta).
 
 Per ottenere le lettere accentate italiane si usano le combinazioni del tasto =AltGr= e della vocale corrispondente (=a e i o u=), aggiungendovi lo =Shift= per ottenere le maiuscole. 
 
-I caratteri 'é' e 'ó' e 'î' si ottengono rispettivamente con le combinazioni =AltGr-d=, =AltGr-k= e =AltGr-j=, con =AltGr-Shift= le corrispondenti maiuscole.
+I caratteri 'é' e 'ó' e 'î' si ottengono rispettivamente con le combinazioni =AltGr-d=, =AltGr-k= e =AltGr-j=, con =AltGr-Shift= le corrispondenti maiuscole. La scelta ovviamente dipende dal fatto che questi tasti sono posti al di sotto di quello della vocale modificata.
 
-Il tasto duplicato (=\ |=), quello sotto l'Enter, e' disponibile per aggiungere due ulteriori caratteri al layout (al momento sono mappati come =- *=).
+Il tasto duplicato (=\ |=), quello sotto l'Enter, e' disponibile per aggiungere due ulteriori caratteri al layout (al momento e' mappato come =- *=).
 
 ** riferimenti
 
