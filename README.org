@@ -1,5 +1,5 @@
-Questo repository raccoglie script di configurazione e tool utili ad ottenere un ambiente di lavoro confortevole e Unix-like, su Windows 10, sempre senza usare la passowrd di amministratore.
+Questo repository raccoglie script di configurazione e tool utili ad ottenere un ambiente di lavoro confortevole e Unix-like su Windows 10, sempre senza usare la passowrd di amministratore.
 E' diviso in sottomoduli, raggruppati in un unico repository per celerita' di installazione.
 
-Il primo modulo che ho aggiunto qui e' la configurazione del layout di tastiera, con AHK e uno script scritto ad hoc.
+Il primo modulo che ho aggiunto qui e' la configurazione del layout di tastiera, con AHK e uno script scritto /ad hoc/.
 
