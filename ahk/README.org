@@ -50,3 +50,4 @@ Il tasto duplicato (=\ |=), quello sotto l'Enter, e' disponibile per aggiungere 
 - http://www.farah.cl/Keyboardery/A-Visual-Comparison-of-Different-National-Layouts/
 - https://www.keychron.com/pages/k8-uk-iso-layout-hd-picture
 - https://www.keychron.com/collections/keychron-iso-keyboard-collection/products/keychron-k8-wireless-mechanical-keyboard-uk-iso-layout
+- https://daviddeley.com/autohotkey/xprxmp/autohotkey_expression_examples.htm
