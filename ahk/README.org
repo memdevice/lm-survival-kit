@@ -21,7 +21,7 @@ Questo otterra' una configurazione di tasti non alfabetici "di tipo US", con il 
 
 [img]
 
-Configurare nel sistema operativo la tastiera come =US International layout=, per poter avere attivo il tasto AltGr come tasto separato;
+Configurare nel sistema operativo la tastiera come =US International layout=, per poter avere attivo il tasto AltGr come tasto distinto dall'Alt.
 
 Scaricare dal sito [[https://www.autohotkey.com][AHK]] il tool in versione /portable/, scegliendo cioe' il file =.zip= che non richiede installazione ([[https://www.autohotkey.com/download/ahk.zip][ahk.zip]]), e decomprimerlo in una directory.
 
