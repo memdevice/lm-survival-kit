@@ -37,7 +37,7 @@ Se tutto e' stato eseguito correttamente comparira' il logo verde "H" nella barr
 
 La tastiera utilizza ora il classico layout US ISO per tutti i tasti, alfabetici e non.
 
-Per ottenere i caratteri /backslash/ e /pipe/ ('\' e '|') si utilizza il tasto a destra dello shift di sinistra (preferisco questa scelta per simmetria col tasto =/ ?=, all'estremita' opposta).
+Per ottenere i caratteri /backslash/ e /pipe/ ('\\' e '|') si utilizza il tasto a destra dello shift di sinistra (preferisco questa scelta per simmetria col tasto =/ ?=, all'estremita' opposta).
 
 Per ottenere le lettere accentate italiane si usano le combinazioni del tasto =AltGr= e della vocale corrispondente (=a e i o u=), aggiungendovi lo =Shift= per ottenere le maiuscole. 
 
