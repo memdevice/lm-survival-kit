@@ -1,0 +1,15 @@
+Ristrutturare il tutto in questo modo, per maggiore flessibilita'.
+
+- script di customizzazione della mappatura della Keychron (K8 e possibilmente anche K6)
+- script generico per aggiungere ad una tastiera fisica US (o UK!) le lettere accentate italiane e altre - intranational (sic.)
+- script di aggiunta di tasti "UTF-8" (universale o, se no, K8 specifico) separato
+- script aggiuntivo di modifica dei tasti per la sola K6 - sopperire alla mancanza del tasto sotto l'Esc (`/~) etc.
+- script di configurazione per EMACS (per la sola K8, temo) che modifica i tasti CapsLock, RWin, RControl per avere Super, Hyper e ???
+
+Risultato sperato:
+
+- lo script generale e sempre caricato per ottenere l' LM intranational layout (indolatino) da qualunque tastiera
+- la configurazione per la K8 e per la K6 (quest'ultima aggiuntiva alla prima o alternativa)
+- l'aggiunta modulare dei tasti aggiuntivi UTF-8
+- lo script generale di configurazione per il solo EMACS
+
