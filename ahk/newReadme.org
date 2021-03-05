@@ -1,0 +1,4 @@
+
+Elenco dei file:
+
+- lm-us-intranational.ahk - trasforma i dead keys della US International e aggiunge le accentate (deriva dal vecchio lm-us-intl-no-dead-keys-AltGR-aeiou-zdhkl-j.ahk)
