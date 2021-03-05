@@ -3,47 +3,7 @@ che non sapeva di scatenare tutto questo/
 
 *Questo modulo contiene la configurazione della tastiera "US IT Intranational layout" e lo script aggiuntivo necessario per configurarla su Windows 10. Il nome lo devo ad un felice refuso, che mi ha segnalato cio' che effettivamente stavo facendo.*
 
-La tastiera e' una tastiera fisica TKL UK ISO, ma con la disposizione dei tasti US, impostata su Windows 10 come =US international layout=.  Quest'ultimo viene poi modificato, mediante uno script AHK, per aggiungervi tutte le lettere accentate italiane (maiuscole e minuscole) ed disabilitare i /dead keys/, ripristinando per i tasti dei segni diacritici il loro comportamento ordinario.
 
-Tutto cio' e' necessario perche' in Windows un layout simile non e' disponibile; su Linux viceversa e' possibile ottenere un comportamento quasi identico, semplicemente inpostando il layout come =IT, US layout= 
-
-** procedura di configurazione e installazione
-
-Procurarsi una tastiera TKL UK ISO Layout con i tasti (/keycap/) agguntivi US (p.es. [[https://www.keychron.com/collections/keychron-iso-keyboard-collection/products/keychron-k8-wireless-mechanical-keyboard-uk-iso-layout][Keychron K8 ISO UK]]).
-
-[[file:K8.webp]]
-
-Sostituire i tasti dell'UK layout con i corrispondeti tasti US, fino ad ottenere una disposizione simile alla tastiera US ISO. Si deve sostituire o commutare sei tasti: tre in R1, nessuno in R2, due in R3, uno in R1. 
-
-Partendo quindi dall'UK ISO Layout mostrato [[http://www.farah.cl/Keyboardery/A-Visual-Comparison-of-Different-National-Layouts/enUK.png][qui a destra in basso]], bisogna operare sui tasti evidenziati in blu, fino a raggiungere la disposizione di una tastiera US ISO, mostrata [[http://www.farah.cl/Keyboardery/A-Visual-Comparison-of-Different-National-Layouts/enUSin.png][qui in basso a destra]]. 
-
-Questo otterra' una configurazione di tasti non alfabetici "di tipo US", con il tasto Enter largo, con la presenza del tasto AltGr e con il tasto =\ |= duplicato in due diverse posizioni (accanto allo shift di sinistra e accanto al tasto Enter, riga in basso).
-
-[img]
-
-Configurare nel sistema operativo la tastiera come =US International layout=, per poter avere attivo il tasto AltGr come tasto distinto dall'Alt.
-
-Scaricare dal sito [[https://www.autohotkey.com][AHK]] il tool in versione /portable/, scegliendo cioe' il file =.zip= che non richiede installazione ([[https://www.autohotkey.com/download/ahk.zip][ahk.zip]]), e decomprimerlo in una directory.
-
-Scaricare lo script =lm-us-intl-no-dead-keys-AltGR-euioadjk.ahk= da questo repository e salvarlo nella stessa directory del tool o dove si vuole.
-
-Associare l'estensione .ahk permanentemente al lancio della versione UTF 64 del tool (=AutoHotkeyU64.exe=).
-
-Lanciare lo script =lm-us-intl-no-dead-keys-AltGR-euioadjk.ahk= ed eventualmente aggiungerlo alla esecuzione automatica, all'avvio di Windows.
-
-Se tutto e' stato eseguito correttamente comparira' il logo verde "H" nella barra di stato e la tastiera sara' configurata come desiderato in modalita' "US IT Intranational layout".
-
-** utilizzo della tastiera
-
-La tastiera utilizza ora il classico layout US ISO per tutti i tasti, alfabetici e non.
-
-Per ottenere i caratteri /backslash/ e /pipe/ ('\\' e '|') si utilizza il tasto a destra dello shift di sinistra (preferisco questa scelta per simmetria col tasto =/ ?=, all'estremita' opposta).
-
-Per ottenere le lettere accentate italiane si usano le combinazioni del tasto =AltGr= e della vocale corrispondente (=a e i o u=), aggiungendovi lo =Shift= per ottenere le maiuscole. 
-
-I caratteri 'é' e 'ó' e 'î' si ottengono rispettivamente con le combinazioni =AltGr-d=, =AltGr-k= e =AltGr-j=, con =AltGr-Shift= le corrispondenti maiuscole. La scelta ovviamente dipende dal fatto che questi tasti sono posti al di sotto di quello della vocale modificata.
-
-Il tasto duplicato (=\ |=), quello sotto l'Enter, e' disponibile per aggiungere due ulteriori caratteri al layout (al momento e' mappato come =- *=).
 
 ** riferimenti
 
