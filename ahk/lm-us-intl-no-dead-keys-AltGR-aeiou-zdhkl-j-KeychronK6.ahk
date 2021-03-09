@@ -18,11 +18,6 @@ SC02B::Send {U+007E} 		;; ~ Tilde
 
 ;; ----- ––– ———— ;;
 
-;; TO DO LIST
-
-;; aggiungere la o col cicrconflesso e altre francesi
-
-
 ;; IF keyboard layout is US International (ISO layout, PC style), THEN
 
 ;;;; LM - rimozione dead keys

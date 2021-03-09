@@ -13,6 +13,4 @@ Risultato sperato:
 - l'aggiunta modulare dei tasti aggiuntivi UTF-8
 - lo script generale di configurazione per il solo EMACS
 
-marzo 2021
-lm
-
+Ulteriore sviluppo: compilazione di un EXE, almeno per il primo script.

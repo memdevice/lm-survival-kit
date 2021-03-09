@@ -1,0 +1,57 @@
+LM US Intranational layout
+
+
+R4:
+
+`1234567890-=
+
+R4 shift:
+
+~!@#$%^&*()_+
+
+R3:
+
+qwertyuiop[]
+
+R3 shift:
+
+QWERTYUIOP{}
+
+R2:
+
+asdfghjkl;'°
+
+R2 shift:
+
+ASDFGHJKL:"§
+
+R1:
+
+\zxcvbnmm,./
+
+R1 shift:
+
+|ZXCVBNM<>?
+
+
+-AltGr-
+
+R4 AltGr:
+¬
+
+R3 AltGr:
+«»
+
+R2 AltGr:
+¶´¶
+
+R1 AltGr:
+※  ç ¿
+
+-AltGr Shift-
+
+¦
+
+°¨©
+
+⁜Ç

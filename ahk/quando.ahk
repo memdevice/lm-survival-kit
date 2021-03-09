@@ -1,0 +1,6 @@
+;; ::quando::Hai detto quando...
+
+::quando::
+Send, quando
+MsgBox, hai detto quando...
+return

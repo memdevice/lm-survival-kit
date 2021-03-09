@@ -122,4 +122,3 @@ SC028::Send {U+0027} 		;; quote \'
 
 ;; cfr. https://superuser.com/questions/280005/how-to-make-and-non-dead-keys-on-windows-7-with-german-keyboard-layout
 ;; refernce: http://www.farah.cl/Keyboardery/A-Visual-Comparison-of-Different-National-Layouts/
-              
