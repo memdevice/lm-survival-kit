@@ -3,3 +3,4 @@ E' diviso in sottomoduli, raggruppati in un unico repository per celerita' di in
 
 Il primo modulo che ho aggiunto qui e' la configurazione del layout di tastiera, con AHK e uno script scritto /ad hoc/.
 
+ciao
