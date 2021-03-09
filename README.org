@@ -4,3 +4,6 @@ E' diviso in sottomoduli, raggruppati in un unico repository per celerita' di in
 Il primo modulo che ho aggiunto qui e' la configurazione del layout di tastiera, con AHK e uno script scritto /ad hoc/.
 
 ciao
+This door is baroquen, please wiggle Handel.
+(If I wiggle Handel, will it wiggle Bach?)
+		-- Found on a door in the MSU music building
