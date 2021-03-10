@@ -3,3 +3,5 @@ E' diviso in sottomoduli, raggruppati in un unico repository per celerita' di in
 
 Il primo modulo che ho aggiunto qui e' la configurazione del layout di tastiera, con AHK e uno script scritto /ad hoc/.
 
+Il secondo modulo è quello di cygwin: le configurazioni della bash da aggiungere per renderla confortevole; i pacchetti aggiuntivi indispensabili; gli appunti sui comportamenti.
+
