@@ -1,5 +1,10 @@
 Configurazione della bash
 
+- prompt
+- proxy configurazione
+- script flypwd per proxy
+
+
 Appunti
 
 In bash xclip e xsel non funzionano, pare, ma esiste il device =/dev/clipboard= e funziona (ed e' lo stesso nome di device che usa EMACS in eshell).
