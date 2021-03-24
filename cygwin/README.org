@@ -1,7 +1,7 @@
 Configurazioni iniziali da integrare:
 
 - modifica del file di cygwin /etc/nsswitch.conf per la home dell'utente (D:\home, qui indicata come /cygrdive/d/home)
-- .bash_profile
+- .bash_profile (http_proxy, alias)
 
 riferimenti:
 https://ryanharrison.co.uk/2015/12/01/cygwin-change-home-directory.html
