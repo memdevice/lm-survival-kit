@@ -3,6 +3,9 @@ Configurazioni iniziali da integrare:
 - modifica del file di cygwin /etc/nsswitch.conf per la home dell'utente (D:\home, qui indicata come /cygrdive/d/home)
 - .bash_profile
 
+riferimenti:
+https://ryanharrison.co.uk/2015/12/01/cygwin-change-home-directory.html
+
 
 TO DO 
 
